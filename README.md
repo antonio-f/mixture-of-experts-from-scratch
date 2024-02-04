@@ -1,2 +1,3 @@
-# mixture-of-experts-from-scratch
-Mixture of Experts from scratch
+# Mixture of Experts from scratch
+
+Simple implementation of Mixture of Experts technique.
